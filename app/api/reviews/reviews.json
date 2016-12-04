@@ -1,0 +1,75 @@
+[
+    {
+        "reviewId": 1,
+        "book": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "reviewer": "John Smith",
+        "review": "JJJJJJJJJJJ JJJJJJJJ JJJJJJJJJJJJJ JJJJJJJJJJJJJ JJJJJJJJJJJ",
+        "price": 19.95,
+        "starRating": 4.2
+    },
+    {
+        "reviewId": 2,
+        "book": "Pride and Prejudice",
+        "author": "Jane Austen ",
+        "reviewer": "Brendan Le",
+        "review": "BBBBB BBBBBBBBBBB BBBBBBBBBBB BBBBBBBBBBBB BBBBBBBBB BBBBB",
+        "price": 17.95,
+        "starRating": 4
+    },
+    {
+        "reviewId": 4,
+        "book": "Twilight",
+        "author": "Stephenie Meyer",
+        "reviewer": "Daniel Young",
+        "review": "DDDDDDDDDDDD DDDDDDDDDDD DDDDDDDDDDDD DDDDDDDDDDDD DDDDDDDDDDD",
+        "price": 15.95,
+        "starRating": 3.6
+    },
+    {
+        "reviewId": 4,
+        "book": "The Book Thief",
+        "author": "Markus Zusak",
+        "reviewer": "Paul Steven",
+        "review": "PPPPPPPPPP PPPPPPPP PPPPPPPPPPPP PPPPPPPPPPP PPPPPPPPPPPPP",
+        "price": 29.95,
+        "starRating": 5
+    },
+    {
+        "reviewId": 6,
+        "book": "The Giving Tree",
+        "author": "Shel Silverstein",
+        "reviewer": "Jane Homes",
+        "review": "HHHHHHHHHHH HHHHHHHHHHHHHH HHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHH",
+        "price": 9.95,
+        "starRating": 2
+    },
+    {
+        "reviewId": 7,
+        "book": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "reviewer": "Samuel Wilson",
+        "review": "SSSSSSSSSS SSSSSSSSSSSSS SSSSSSSSSSSSSSSSS SSSSSSSSSSSSSS SSSSSSSSS",
+        "price": 19.95,
+        "starRating": 2.7
+    },
+    {
+        "reviewId": 8,
+        "book": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "reviewer": "Anna Austin",
+        "review": "AAAAAAAAAAAAA AAAAAAAAAAAAAAAA AAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAA",
+        "price": 19.95,
+        "starRating": 1.5
+    },
+    {
+        "reviewId": 9,
+        "book": "The Book Thief",
+        "author": "Markus Zusak",
+        "reviewer": "Damien Stephen",
+        "review": "MMMMMMMMMMMMM MMMMMMMMMMMMMMMMMMM MMMMMMMMMMMMMM MMMMMMMMMMMMMMMMMM MMMMMMMMMMM",
+        "price": 29.95,
+        "starRating": 4.5
+    }
+    
+]
